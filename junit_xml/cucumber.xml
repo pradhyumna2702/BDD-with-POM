@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="31.892588">
+<testcase classname="Tours application feature" name="Mercury tours login feature" time="31.892588">
+<system-out><![CDATA[Given User launches the browser.............................................passed
+When Title is demoaut.......................................................passed
+Then user logs into app.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

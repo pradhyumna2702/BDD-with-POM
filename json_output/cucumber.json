@@ -1,0 +1,58 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Mercury tours login feature",
+        "description": "",
+        "id": "tours-application-feature;mercury-tours-login-feature",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6976625950,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User launches the browser",
+            "match": {
+              "location": "LoginSteps.user_launches_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 42535675,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Title is demoaut",
+            "match": {
+              "location": "LoginSteps.title_is_demoaut()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 24873426604,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user logs into app",
+            "match": {
+              "location": "LoginSteps.user_enters_userid_and_password()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Tours application feature",
+    "description": "",
+    "id": "tours-application-feature",
+    "keyword": "Feature",
+    "uri": "/Users/SPS/eclipse-workspace/cucumberBDDWithPom/src/main/java/com/qa/features/login.feature"
+  }
+]
